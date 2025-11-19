@@ -18,8 +18,6 @@ Este proyecto realiza un análisis exploratorio de datos (EDA) sobre un conjunto
 Proyecto medallas/
 ├── Proyecto.ipynb      # Notebook principal con el análisis
 ├── medallas.csv        # Dataset con información de medallas olímpicas
-├── requirements.txt    # Dependencias del proyecto
-└── README.md          # Este archivo
 ```
 
 ## Requisitos
@@ -27,15 +25,6 @@ Proyecto medallas/
 - Python 3.7 o superior
 - Jupyter Notebook o JupyterLab
 - Pandas
-
-## Instalación
-
-1. Clona o descarga este repositorio
-2. Instala las dependencias:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Uso
 
